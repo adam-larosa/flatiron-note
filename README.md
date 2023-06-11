@@ -1,10 +1,8 @@
-# Phase 2 Guided Project Guidelines
+# Flatiron Evernote
 
-In this guided project, we'll be building an Evernote-like application with React.
+In this lab we'll be building an Evernote-like application with React.
 
-Your goal will be to complete the baseline deliverables using the provided
-starter code and then make this project your own by building out unique stretch
-goals. Some suggestions are listed below, but try to be creative!
+Your goal will be to complete the baseline deliverables using the provided starter code and then make this application your own by building out unique stretch goals.  Some suggestions are listed below, but try to be creative!
 
 ## Requirements
 
